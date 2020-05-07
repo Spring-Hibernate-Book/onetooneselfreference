@@ -27,7 +27,6 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 import com.oodd.spring.onetooneselfreference.dto.StudentDto;
-import com.oodd.spring.onetooneunidirectional.dto.BookDto;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration
